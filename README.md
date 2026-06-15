@@ -1,3 +1,11 @@
+# Student Registration System
+
+## Team Members
+- Lewis Russ
+- Samuel Montalvo Brousett
+- Tommy Martinez
+- Dwyhan Angulo
+
 # Project Description
 The Student Registration System is designed to help colleges manage student course registrations efficiently. The system will maintain up to 25 registration records and store student IDs, student names, and registration statuses.
 
